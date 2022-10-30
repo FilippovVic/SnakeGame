@@ -8,6 +8,11 @@
 ## How to play :question:
 - WASD or :arrow_left: :arrow_right: :arrow_up: :arrow_up_down:
 ## How to launch :question:
+#### Way 1:
+- IntelliJ IDEA (Welcome window) --> Projects;
+- Get from VCS;
+- Insert repository URL --> Clone.
+#### Way 2:
 - Download code zip archive;
 - Unzip to working directory;
 - IDEA : File --> New --> Project from existing sources;
